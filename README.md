@@ -1,2 +1,2 @@
-C++ project: Rubik's Cube
+C++ project: Rubik's Cube (MVC-pattern)
 
